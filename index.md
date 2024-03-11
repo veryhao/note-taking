@@ -1,5 +1,3 @@
-# Heading 1
-Some text 1
+# Lecture Notes
 
-# Heading 2
-Some text 2
+1. [Introduction](notes/intro.md)
